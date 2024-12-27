@@ -16,13 +16,13 @@
 </p>
 
 <div align="center" style="margin-top: 30px; display: flex; justify-content: center; gap: 25px;">
-  <a href="https://linkedin.com/in/junaid-arshad" target="_blank">
+  <a href="https://www.linkedin.com/in/junaid-arshad02/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Junaid%20Arshad-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 25px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
   </a>
-  <a href="https://fb.com/junaid.arshad" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100056162013136" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Junaid%20Arshad-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 25px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
   </a>
-  <a href="https://www.youtube.com/c/reactify" target="_blank">
+  <a href="https://www.youtube.com/@Reactify-i5e" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Reactify-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border-radius: 25px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
   </a>
 </div>
