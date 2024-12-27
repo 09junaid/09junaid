@@ -117,7 +117,14 @@
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" style="width: 50px; height: 50px;" />
       <p style="font-weight: bold; margin-top: 10px; color: white;">Node.js</p>
     </td>
-    <!-- Express.js -->
+  
+    
+  <!--Next Row for other tools and technology-->
+  
+  </tr>
+  
+  <tr style="text-align: center;">
+      <!-- Express.js -->
     <td style="padding: 20px; width: 10%; text-align: center; background-color: #404D59; border-radius: 12px;">
       <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" style="width: 50px; height: 50px;" />
       <p style="font-weight: bold; margin-top: 10px; color: white;">Express.js</p>
@@ -127,13 +134,6 @@
       <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" style="width: 50px; height: 50px;" />
       <p style="font-weight: bold; margin-top: 10px; color: white;">MongoDB</p>
     </td>
-  
-    
-  <!--Next Row for other tools and technology-->
-  
-  </tr>
-
-  <tr style="text-align: center;">
       <!-- MySQL -->
     <td style="padding: 20px; width: 10%; text-align: center; background-color: #4479A1; border-radius: 12px;">
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" style="width: 50px; height: 50px;" />
@@ -174,6 +174,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" style="width: 50px; height: 50px;" />
   <p style="font-weight: bold; margin-top: 10px; color: white;">AWS</p>
 </td>
+    
+  </tr>
+  <tr style="text-align: center;">
     <!--docker-->
     <td style="padding: 20px; width: 10%; text-align: center; background-color: #2496ED; border-radius: 12px;">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" style="width: 50px; height: 50px;" />
