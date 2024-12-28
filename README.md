@@ -1,8 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h1 align="center" style="color:#e74e32; font-size: 40px; font-weight: bold; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);">Hi 👋, I'm Junaid Arshad</h1>
-<h3 align="center" style="color:#001e42; font-size: 28px; font-weight: 500;">A passionate MERN Stack developer from Pakistan</h3>
-
+<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Junaid Arshad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img  align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B801&width=435&lines=Front-End+Developer;React+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
+</p>
 <div align="center" style="margin: 20px;">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" style="border-radius:20px; box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);"/>
 </div>
@@ -50,13 +51,13 @@
 ### Fun Facts About Me
 
 - 🧑‍💻 I'm a passionate **software engineer** who loves solving problems with code.
-- 🚀 I've worked on a variety of projects, from **personal portfolios** to **real estate websites**.
-- 🌍 I am constantly learning new **technologies** like **React**, **Node.js**, **TypeScript**, and **Docker**.
+- 🚀 I've worked on a variety of projects, from **LogicBuilder** | **personal portfolios** | **real estate websites**.
+- 🌍 I am constantly learning new **technologies** like **React** | **Node.js** | **TypeScript** | **Docker**.
 - 🎮 When I'm not coding, you can find me playing **strategy games** or **exploring new coding challenges**.
 - 💡 I believe that **clean code** and **good architecture** are the foundations of great software.
 - 📚 I enjoy reading books about **software engineering** and **technology trends** to stay ahead.
 - 🦸‍♂️ My **superpower** is turning complex technical concepts into simple explanations.
-- 🌱 I’m currently learning **AI** and **Machine Learning** to expand my knowledge.
+- 🌱 I’m currently learning **Next.JS** | **Nest.JS** | **AWS** to expand my knowledge.
 - ✍️ When I’m feeling creative, I write about **technology** and **software development** on my personal blog.
 
 > **"The best way to learn is by building something meaningful — combining knowledge with hands-on experience to create real impact."**  
@@ -184,15 +185,40 @@
 </td>
   </tr>
 </table>
+<h2 align="center">✨ Featured Projects</h2>
+<table align="center" style="border-spacing: 20px;">
+  <tr>
+    <td align="center">
+      <a href="https://logicbuilder.netlify.app/" style="text-decoration: none;">
+        <img src="https://logicbuilder.netlify.app/assets/icon-CnbiCxF8.png" alt="LogicBuilder Project" title="LogicBuilder" style="border: 2px solid #555; border-radius: 15px; width: 220px; height: auto; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+        <p style="text-align: center; font-weight: bold; color: #444; margin-top: 10px;">LogicBuilder</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://01port.netlify.app" style="text-decoration: none;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJUKmmNHlaQcawVMWJi_twnNRVQYDehSXA&s" alt="My Portfolio" title="My Portfolio" style="border: 2px solid #555; border-radius: 15px; width: 220px; height: auto; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 8px 20px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+        <p style="text-align: center; font-weight: bold; color: #444; margin-top: 10px;">My Portfolio</p>
+      </a>
+    </td>
+  </tr>
+</table>
+<!--Education-->
+<section style="margin-top: 40px; display: flex; justify-content: space-between; align-items: center;">
+  <h2 align="center" style="color: #333; font-size: 24px;">🎓 Education</h2>
+    <img align="right" src="https://img.freepik.com/free-vector/maths-online-course-economics-university-department-internet-classes-accounting-lessons-bookkeeping-mathematics-textbooks-digital-archive_335657-3270.jpg?t=st=1735353506~exp=1735357106~hmac=d3741c4f535817603407883f51ad7a413d6ef08d1984cf60c23a6c63b93dbd36&w=740" alt="Education Illustration" style="width: 300px; height: auto; border-radius: 15px; box-shadow: 0px 8px 20px rgba(0,0,0,0.3);">
+  
+  <div align="left">
+    <img src="https://cms.mul.edu.pk/images/employees/Mohtishim-Siddique_2247.jpg" alt="Minhaj University Lahore Logo" title="Minhaj University Lahore" style="width: 100px; border-radius: 50%; margin-bottom: 15px;">
+    <p style="font-size: 18px; color: #555; margin: 5px 0;">Minhaj University Lahore</p>
+    <p style="font-size: 16px; color: #777; margin: 5px 0;">Fall 2020 - 2024</p>
+    <p style="font-size: 18px; margin: 5px 0;">BS-Software Engineering</p>
+    <p style="font-size: 16px; color: #777; margin: 5px 0;">CGPA: <strong>3.52/4</strong></p>
+  </div>
+    
+</section>
 
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #3498db; font-size: 35px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Support Me</h3>
 
-<div align="center" style="margin: 20px;">
-  <a href="https://www.buymeacoffee.com/junaid" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="Buy me a coffee" style="border-radius: 25px; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">
-  </a>
-</div>
 
 <hr style="border: 1px solid #e0e0e0; margin: 40px 0;"/>
 
